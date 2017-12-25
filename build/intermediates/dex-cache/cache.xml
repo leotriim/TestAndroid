@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/35867bf0f64ce9be8b4886697eb8939a9ca3cfa2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_f092ce9550ef05637c410fbeff1c508ad2fe4c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/c3fa0e34b87fe6129e4acf2900e2889edddfc724/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_b4f810aa9f5230a1171d00622a9bdfcd98d18fb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/common-1.0.3_38b485ec04df43eda5464147b1d748abf6ca62c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/common-1.0.0_4b020253a5c75b5d73f35e64a9e6c7562a80964b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/d8ebd2e97563a3c37a5f1b99075e871eb4a6ba35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_4bdf829f6b8de1ce74c64cfb4e08dfd604c437c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/c86f8f263afb8cb6d5c8f9e85be8491584a78b7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_33f176fc15d23f7c44ae5d19a264de28e9e46121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/9f87be4c38acbf507ce60be82863917b64b616b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_a00497b0f3086b8151a42b9405c7fbc80c7fdc74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/3de633795aece878c24e378e505d21d847422cfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_b10d55089260b843b370d5bd999562c512e472ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/42f745a8bfc488e2bee701d85940d5f92b312227/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_dfaee8d9ad59681c930806a2228f3920798e29c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/ce2d0376cc63c444afa649925d3ba58e3b97b8ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_6d2a4e6b5784004cfb7be851edd9b7a0673ae2bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/d7f40d697262ef65ba227e5dec6ed87491355ecf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_e4bb8e7e83130d29f77fd956f829c1ae435748cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/5a1e2330f39c008b8c72db5e76252c02b50f9d4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_55400441123f51adb519538542e9d09c4071ca76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a368277cfcbd674efbf4395fd79fa7d7460e3788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/8a2f47d943269dfa7dd46547177dc705b96cdf31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_18727a9e0fad7e41b33198fbd7ae49e019993b3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/e23dbe8aa335062964acb1622446ebc300c6a69a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_4571f7885202cd35d4e3870213ebb1140a60b0ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/44afedc89d599b9aa91827658f21176f465a8185/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_725bf85a23d7e5d2542ac84f73b4aea449289112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/b6d80348275b9ebe41e9893695efb26e0fb67329/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_5e23ee3dcad2282ec9ec62a85e8229184167818b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_b2f60ee0a3d332d08f809c339bfc5e42dc0b3b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/whiter0se/.android/build-cache/01d9cb647c83d2422755342bd64ac5736fcf5a5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes_3e921923be7b412f853d8df058be3f5dafbaeb4e.jar" />
+    </item>
+
+</items>

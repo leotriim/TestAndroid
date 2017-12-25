@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:8:22-69
+application
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/whiter0se/.android/build-cache/b6d80348275b9ebe41e9893695efb26e0fb67329/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/whiter0se/.android/build-cache/35867bf0f64ce9be8b4886697eb8939a9ca3cfa2/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.whiter0se.login.LoginActivity
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:17:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.whiter0se.login.RegisterActivity
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:24:9-54
+	android:name
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:24:19-51
+activity#com.example.whiter0se.login.UserActivity
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:25:19-47
+activity#com.example.whiter0se.login.LoginActivity2
+ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:26:9-28:70
+	android:label
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:28:13-58
+	android:name
+		ADDED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:27:13-43
+uses-sdk
+INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/whiter0se/.android/build-cache/b6d80348275b9ebe41e9893695efb26e0fb67329/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] /home/whiter0se/.android/build-cache/35867bf0f64ce9be8b4886697eb8939a9ca3cfa2/output/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:27.0.2] /home/whiter0se/.android/build-cache/5a1e2330f39c008b8c72db5e76252c02b50f9d4e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/whiter0se/.android/build-cache/44afedc89d599b9aa91827658f21176f465a8185/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/whiter0se/.android/build-cache/d8ebd2e97563a3c37a5f1b99075e871eb4a6ba35/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/whiter0se/.android/build-cache/8a2f47d943269dfa7dd46547177dc705b96cdf31/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/whiter0se/.android/build-cache/ce2d0376cc63c444afa649925d3ba58e3b97b8ef/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/whiter0se/.android/build-cache/01d9cb647c83d2422755342bd64ac5736fcf5a5c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/whiter0se/.android/build-cache/9f87be4c38acbf507ce60be82863917b64b616b7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/whiter0se/.android/build-cache/42f745a8bfc488e2bee701d85940d5f92b312227/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/whiter0se/.android/build-cache/3de633795aece878c24e378e505d21d847422cfc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/whiter0se/.android/build-cache/c86f8f263afb8cb6d5c8f9e85be8491584a78b7a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/whiter0se/.android/build-cache/c3fa0e34b87fe6129e4acf2900e2889edddfc724/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/whiter0se/.android/build-cache/e23dbe8aa335062964acb1622446ebc300c6a69a/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/whiter0se/.android/build-cache/d7f40d697262ef65ba227e5dec6ed87491355ecf/output/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whiter0se/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml

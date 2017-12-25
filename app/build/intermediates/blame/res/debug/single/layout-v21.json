@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/whiter0se/.android/build-cache/e23dbe8aa335062964acb1622446ebc300c6a69a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/whiter0se/.android/build-cache/e23dbe8aa335062964acb1622446ebc300c6a69a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/whiter0se/.android/build-cache/e23dbe8aa335062964acb1622446ebc300c6a69a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/whiter0se/AndroidStudioProjects/Login/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/whiter0se/.android/build-cache/e23dbe8aa335062964acb1622446ebc300c6a69a/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
